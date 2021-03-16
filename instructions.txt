@@ -1,0 +1,4 @@
+1. 安装node.js并运行终端执行node -v检查是否已安装
+2. 将图档放入images夹（支援jpg, png, gif, svg）
+3. 运行终端到此工作目录执行node index.js或运行run.bat
+4. 剪切build内压缩过得图档
